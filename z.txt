@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thi is z master
+=======
+this is z onw
+>>>>>>> onw
